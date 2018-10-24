@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 软件及其发展历程浅谈
 ---
 
 # 软件及其发展历程浅谈
