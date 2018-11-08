@@ -77,54 +77,49 @@ ACC全称累加器，用来储存计算产生的中间结果。
 #### 3、该机器CPU是几位的？（按累加器的位数）
 8位
 #### 4、写出该程序对应的 C语言表达。
+```c
 int main() {
-
-int w=3;
-
-int x=7;
-
-int y=w+x; 
-
-return 0;
-
+    int w=3;
+    int x=7;
+    int y=w+x; 
+    
+    return 0;
 }
+```
 ## 任务2：简单循环
 ### （1）Program 2
 ![](images/机器语言3.PNG) 
 #### 1、用一句话总结程序的功能
 将X减1至X=0。
 #### 2、写出对应的 c 语言程序
+```c
 int main() {
+    int x=3;
 
-int x=3;
+    while(x!=0) {
+        x--;
+    }
 
-while(x!=0) {
-
-x--;
-
+    return 0;
 }
-
-return 0;
-
-}
+```
 ### （2）修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y
 ![](images/机器语言4.PNG) 
 #### 1、写出 c 语言的计算过程
+```c
 int main() {
 
-int x=10,y=0;
+    int x=10,y=0;
 
-while(x>0) {
+    while(x>0) {
 
-y=y+x;
-
-x--;
-
-}
+        y=y+x;
+        x--;
+    }
 	
-return 0;
-
+    return 0;
 }
+```
 #### 2、写出机器语言的计算过程
 0 LOD #10
 
