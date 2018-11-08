@@ -1,3 +1,5 @@
+1.[机器语言实验报告](lab07.pdf)
+
 # 一、实验目标
 ## 任务 1：简单程序
 ### （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number
