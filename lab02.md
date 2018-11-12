@@ -2,7 +2,7 @@
 layout: default
 ---
 # 制作游戏
-    利用Construct2可以制作各类2D游戏，下面我们来介绍如何运用Construct2来制作游戏。
+利用Construct2可以制作各类2D游戏，下面我们来介绍如何运用Construct2来制作游戏。
 ## `开始`
 首先，打开Construct2，新建一个文件，点击图中按钮或输入Ctrl+N。
 
