@@ -12,7 +12,9 @@ A top-down approach (also known as stepwise design and in some cases used as a s
 
 结构化编程是一种编程范例，旨在通过广泛使用结构化控制流构造的选择（if / then / else）和重复（while和for），块结构与子程序来提高计算机程序的清晰度，质量和开发时间。
 # 洗衣机控制程序
+现在，利用上述提到的Top-down design进行洗衣机控制程序设计。
 ## 1、大步骤伪代码
+控制程序的主程序
 ```
 选择洗衣模式、水量
 启动
@@ -25,6 +27,7 @@ A top-down approach (also known as stepwise design and in some cases used as a s
 停机
 ```
 ## 2、各步骤伪代码
+现在，将子程序扩展，得到整合的伪代码
 ```
 READ 选择洗衣模式
 READ 选择水量
@@ -56,6 +59,7 @@ UNTIL 时间==需求时间
 停机
 ```
 ## 3、引入函数
+引入函数，使结构更加清晰
 ```
 {
 READ 选择洗衣模式
