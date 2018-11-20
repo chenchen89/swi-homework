@@ -11,7 +11,7 @@ $y=\frac{1+x}{1-x}(x\neq1),求\frac{d^{3}y}{dx^{3}}.$
 
 演示：
 
-![](images/python1.png)
+![](images/python1.PNG)
 
 答案：$\frac{d^{3}y}{dx^{3}}=\frac{12}{(x-1)^{4}}.$
 ### 1.2
