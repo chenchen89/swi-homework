@@ -1,3 +1,5 @@
+[python实验报告](lab10.pdf)
+
 # 一、实验目的
 1.了解一种“解释型”语言 python
 
@@ -24,5 +26,18 @@ $y=\frac{1+x}{1-x}(x\neq1),求\frac{d^{3}y}{dx^{3}}.$
 答案：$ln(e^{x}+1)-ln(e^{x}+2)+C.$
 ## 2.线性代数
 ### 2.1
+![](images/python3.PNG)
 
+求AB.
+
+演示：
+
+![](images/python4.PNG)
 ### 2.2
+![](images/python5.PNG)
+
+$求A^{-1}.$
+
+演示：
+
+![](images/python6.PNG)
