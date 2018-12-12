@@ -137,3 +137,7 @@ int whereToGoNext(int hx,int hy,int fx,int fy,int diretion) {
 ![](images/智能蛇1.gif)
 
 ![](images/智能蛇2.gif)
+
+有障碍物时：
+
+![](images/智能蛇3.gif)
