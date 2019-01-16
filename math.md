@@ -1,3 +1,5 @@
 # 数学公式编辑
 
 $ x^{2} \qquad x_{0} $
+
+$ \because $ sdfs
