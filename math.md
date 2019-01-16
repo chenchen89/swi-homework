@@ -22,7 +22,9 @@ $\therefore y(10) = 16^{8} - 16^{2} + d_{1} \cdot 16 + d_{0}$.
 
 $\therefore y(10) = 16^{8} - 16^{2} + x'$ 
 
-$\therefore y(10) = 16^{8} + x(10)$. $\therefore y = x$. 
+$\therefore y(10) = 16^{8} + x(10)$. 
+
+$\therefore y = x$. 
 
 综上所述：$y = x$ ，命题得证. 
 
