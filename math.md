@@ -31,7 +31,7 @@ $\therefore y = x$.
 
 $\blacksquare$
 
-## 
+## 公式
 
 $ x^{2} \qquad x_{0} $
 
