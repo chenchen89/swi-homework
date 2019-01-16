@@ -34,3 +34,5 @@ $\blacksquare$
 ## 
 
 $ x^{2} \qquad x_{0} $
+
+$$ \sum ^{n} _{i=0} $$
